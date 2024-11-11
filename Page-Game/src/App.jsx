@@ -5,7 +5,8 @@ const App = () => {
     <div>
       <Navbar />
     </div>
-  )
+    
+    )
   
 }
 

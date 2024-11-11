@@ -389,7 +389,7 @@ button:hover {
     border: solid 1px #d6ccc2;
     width: 76%;
     margin: 0 auto;
-    background-image: url('/src/assets/img/freepik-export-20241110043331onpR.png');
+     background-image: url('/src/assets/img/freepik-export-20241110043331onpR.png');
     background-size:cover ;
 
 }
@@ -407,4 +407,56 @@ button:hover {
     width: 100%;
     height: 100%;
   }
-  
+
+#products{
+
+    border: solid 1px #d6ccc2;
+    width: 76%;
+    margin: 0 auto;
+    object-fit: cover;
+    background-image: url('/src/assets/img/cibe.png');
+    background-size:cover ;
+}
+#reviews{
+    border: solid 1px #d6ccc2;
+    width: 76%;
+   
+    object-fit: cover;
+    background-image: url('/src/assets/img/hojasm.png');
+    
+}
+#anime-figures{
+    border: solid 1px #d6ccc2;
+    width: 76%;
+    
+    object-fit: cover;
+    background-image: url('/src/assets/img/hojasm.png');
+   
+}
+#anime-shirts{
+    border: solid 1px #d6ccc2;
+    width: 76%;
+    
+    object-fit: cover;
+    background-image: url('/src/assets/img/lone-tree.jpg');
+   
+
+}
+
+#contact{
+    border: solid 1px #d6ccc2;
+    width: 76%;
+    margin: 0 auto;
+    object-fit: cover;
+    background-image: url('/src/assets/img/redes.jpg');
+    background-size:cover ;
+}
+
+#form1{
+    border: solid 1px #d6ccc2;
+    width: 76%;
+    margin: 0 auto;
+    object-fit: cover;
+    background-image: url('/src/assets/img/freepik-export-20241110043331onpR.png');
+    background-size:cover ;
+}
