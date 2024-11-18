@@ -156,9 +156,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #3b5998;
-}
+
 
 
 .footer-container {
@@ -199,9 +197,6 @@ button:hover {
     transition: color 0.3s;
 }
 
-.footer-section ul li a:hover {
-    color: #fff;
-}
 
 .footer-section.contact-form form input,
 .footer-section.contact-form form textarea {
@@ -225,9 +220,7 @@ button:hover {
     transition: background-color 0.3s;
 }
 
-.footer-section.contact-form form button:hover {
-    background-color: #ff3333;
-}
+
 
 .footer-section.social ul {
     display: flex;
@@ -245,9 +238,7 @@ button:hover {
     transition: color 0.3s;
 }
 
-.footer-section.social ul li a:hover {
-    color: #ff5555;
-}
+
 
 .footer-bottom {
     text-align: center;
